@@ -1,2 +1,6 @@
 .vscode/
 */a.out
+
+*/build
+.ccls-cache/
+a.out
